@@ -1,0 +1,27 @@
+//MODULE ASSIGNMENT 2 - LEVEL 1
+
+1. What is a function literal?
+
+	it is a function that is "anonymous" and first runs at runtime and is ideal for repeti
+
+
+2. What is the constructor?
+
+	objects defined a specific way to reproduce multiple objects of the same type with different values.
+
+3. What does the return statement do?
+
+	It stops the active function and returns the statement reached.
+
+
+4. What will be written to the console from this function:
+		function myFunction(){
+			  return console.log('inside my function'); //this will be printed in the console.
+			  console.log('My name is Andy');
+		}
+		myFunction();
+
+
+5. Briefly describe scope in JavaScript.
+
+	Scope is defined either global or local, local being elements are accessable only from inside function and global being elements accessable from the entire script.
